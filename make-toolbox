@@ -1,3 +1,6 @@
+import LazyScratchBlocks from './tw-lazy-scratch-blocks';
+import {defaultBlockColors} from './themes';
+
 const categorySeparator = '<sep gap="36"/>';
 
 const blockSeparator = '<sep gap="36"/>'; // At default scale, about 28px
